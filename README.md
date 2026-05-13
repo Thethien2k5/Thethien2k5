@@ -1,4 +1,5 @@
 # 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -18,31 +19,19 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 # 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thethien2k5&show_icons=true&theme=tokyonight" alt="Thethien2k5 GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thethien2k5&theme=tokyonight&hide_border=false" alt="Thethien2k5 Streak Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thethien2k5&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
 
-# 🗂️ Project
-<p align="left">
-  <a href="https://github.com/Thethien2k5/EzWordMaster">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thethien2k5&repo=EzWordMaster&theme=dracula" alt="EzWordMaster" />
-  </a>
-  <a href="https://github.com/Thethien2k5/INTERNAL_INFORMATION_EXCHANGE_FORUM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thethien2k5&repo=INTERNAL_INFORMATION_EXCHANGE_FORUM&theme=gruvbox" alt="INTERNAL_INFORMATION_EXCHANGE_FORUM" />
-  </a>
-  <a href="https://github.com/Thethien2k5/simple-rule-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thethien2k5&repo=simple-rule-chatbot&theme=highcontrast" alt="simple-rule-chatbot" />
-  </a>
-  <a href="https://github.com/Thethien2k5/NIAs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thethien2k5&repo=NIAs&theme=highcontrast" alt="NIAs" />
-  </a>
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Thethien2k5&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://streak-stats.demolab.com/?user=Thethien2k5&theme=blue_navy&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Thethien2k5&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Thethien2k5&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## ✍️ Quote on me
 <p align="left">
