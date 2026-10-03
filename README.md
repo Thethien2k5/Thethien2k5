@@ -30,10 +30,14 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Thethien2k5&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Thethien2k5&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 🎯 Areas of Focus & Interests
+- 🔭 **Areas of Focus:** IT Systems Administration & Technical Support (Helpdesk), Software & Optimized UI/UX Development.
+- ⚙️ **Hands-on Skills:**
+  - **Systems & Optimization:** Linux/Windows environment setup & configuration, Shell Scripting, Git workflow, network troubleshooting.
+  - **Application Development:** Cross-platform tools & API development (Web, Desktop, Mobile) using Python, Go, Node.js, C++, and Kotlin.
+  - **UI/UX & Experience:** Streamlined and intuitive UI/UX design; modern web/app interface implementation.
+- 💡 **Tech Interests:** Operating system internals, hardware/software performance optimization, network architecture, and game logic systems.
+- 🚀 **Career Goal:** Eager to contribute in real-world engineering environments, tackling technical challenges from IT operations to product development.
 
 ## ✍️ Quote on me
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=「Chưa%20đủ%20woww」&author=&theme=tokyonight" alt="Quote" />
-</p>
+> *"Chưa đủ woww"*
